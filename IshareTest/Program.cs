@@ -11,6 +11,7 @@ namespace IshareTest
         static void Main(string[] args)
         {
             Console.WriteLine("hello");
+            int num = Int32.Parse(Console.ReadLine());
         }
 
     }
